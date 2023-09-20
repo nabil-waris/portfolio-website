@@ -17,14 +17,14 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
-        Hello, I'm <span className="font-medium">Nabil Waris</span>, a{" "}
+        Hello, I&apos;m <span className="font-medium">Nabil Waris</span>, a{" "}
         <span className="font-medium">computer science</span> student with a
         deep <span className="underline">love</span> for
         <span className="font-medium"> coding</span> and a keen{" "}
         <span className="font-medium">problem-solving</span> mindset. My journey
         into the world of
         <span className="font-medium"> software development </span> started a
-        few years ago, and I'm currently immersed in the art of{" "}
+        few years ago, and I&apos;m currently immersed in the art of{" "}
         <span className="font-medium">front-end development</span>. As I work
         towards becoming a
         <span className="font-medium"> full-stack developer</span>, I find my
@@ -36,25 +36,25 @@ export default function About() {
           {" "}
           hands-on experience and collaboration
         </span>
-        . I'm always eager to connect with
+        . I&apos;m always eager to connect with
         <span className="font-medium"> like-minded individuals</span>, exchange
         ideas, and collectively create innovative solutions in the ever-evolving
-        landscape of software development. Let's embark on this exciting journey
+        landscape of software development. Let&apos;s embark on this exciting journey
         together and build remarkable things in the world of technology!
       </p>
       <p>
-        <span className="italic">When I'm not coding,</span> I enjoy spending
+        <span className="italic">When I&apos;m not coding,</span> I enjoy spending
         time with my family and friends, watching movies, and playing video
-        games. I'm a <span className="font-medium">lifelong learner</span>, and
-        I'm always looking for new <span className="font-medium">books,</span>{" "}
+        games. I&apos;m a <span className="font-medium">lifelong learner</span>, and
+        I&apos;m always looking for new <span className="font-medium">books,</span>{" "}
         <span className="font-medium">tutorials,</span> and{" "}
         <span className="font-medium">courses</span> to help me improve my{" "}
         <span className="font-medium">skills</span> and{" "}
-        <span className="font-medium">knowledge.</span> If you're interested in{" "}
+        <span className="font-medium">knowledge.</span> If you&apos;re interested in{" "}
         <span className="font-medium">learning</span> more about my{" "}
         <span className="font-medium">skills</span> and{" "}
         <span className="font-medium">experience,</span> feel free to take a
-        look at my <span className="font-medium">CV.</span> I'd{" "}
+        look at my <span className="font-medium">CV. </span> I&apos;d{" "}
         <span className="underline">love</span> to hear from you and discuss
         potential opportunities to collaborate on projects or learn from each
         other.

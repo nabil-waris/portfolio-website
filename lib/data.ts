@@ -1,5 +1,4 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
 import ImageSearchApp from "@/public/ImageSearchApp.png";
 import WeatherApp from "@/public/WeatherApp.png";
